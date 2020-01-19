@@ -26,6 +26,7 @@ public class Book {
 
 
     public String getTitle() {
+        System.out.println("lol");
         return title;
     }
 
